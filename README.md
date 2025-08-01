@@ -1,4 +1,4 @@
-# Modern React To-Do List
+# React To-Do List
 
 A clean, modern, and user-friendly To-Do List application built with React. This project demonstrates core React concepts including components, state management with hooks, and props. The application is fully responsive and saves tasks to the browser's local storage.
 
