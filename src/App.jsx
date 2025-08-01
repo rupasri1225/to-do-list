@@ -38,7 +38,7 @@ export default function App() {
   return (
     <div className="app-container">
       <header>
-        <h1>Modern To-Do</h1>
+        <h1>To-Do List</h1>
         <p>Your personal task manager</p>
       </header>
       <main>
