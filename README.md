@@ -1,12 +1,53 @@
-# React + Vite
+# Modern React To-Do List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, modern, and user-friendly To-Do List application built with React. This project demonstrates core React concepts including components, state management with hooks, and props. The application is fully responsive and saves tasks to the browser's local storage.
 
-Currently, two official plugins are available:
+**Live Demo Link:** [YOUR NETLIFY LINK HERE]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![To-Do List Screenshot](https://i.imgur.com/uG9G1hF.png) 
+*(Note: You can replace this image by taking a screenshot of your app and uploading it to your GitHub repo.)*
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+* **Add Tasks:** Quickly add new tasks with a timestamp.
+* **Complete Tasks:** Mark tasks as complete or undo with a dedicated button.
+* **Delete Tasks:** Remove tasks you no longer need.
+* **Persistent Storage:** Tasks are saved in your browser's local storage, so they don't disappear when you refresh the page.
+* **Responsive Design:** Looks great on desktops, tablets, and mobile devices.
+* **Component-Based:** Built with a clean, reusable component structure.
+
+---
+
+## 🛠️ Technologies Used
+
+* **React:** For building the user interface.
+* **Vite:** As the frontend build tool.
+* **JavaScript (ES6+):** Core application logic.
+* **CSS3:** For modern styling and layout.
+* **HTML5:** For the basic structure.
+* **Netlify:** For continuous deployment and hosting.
+
+---
+
+## 🚀 How to Run Locally
+
+To run this project on your own machine:
+
+1.  Clone the repository:
+    ```bash
+    git clone [https://github.com/rupasri1225/to-do-list.git](https://github.com/rupasri1225/to-do-list.git)
+    ```
+2.  Navigate into the project directory:
+    ```bash
+    cd to-do-list
+    ```
+3.  Install the necessary dependencies:
+    ```bash
+    npm install
+    ```
+4.  Start the development server:
+    ```bash
+    npm run dev
+    ```
